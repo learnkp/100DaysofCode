@@ -1,4 +1,5 @@
 # Breakout Game
+Breakout is an arcade video game developed and published by Atari, Inc.[7] and released on May 13, 1976.[2] It was designed by Steve Wozniak, based on conceptualization from Nolan Bushnell and Steve Bristow who were influenced by the seminal 1972 Atari arcade game Pong. In Breakout, a layer of bricks lines the top third of the screen and the goal is to destroy them all by repeatedly bouncing a ball off a paddle into them.
 
 ## Approach of a Project
 - Breakdown total project into section such as ball module, scorecard module, paddle module, bricks module and finally main file which combines the all the modules.
