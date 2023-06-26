@@ -5,8 +5,8 @@ called dots and dashes, or dits and dahs.
 Morse code is named after Samuel Morse, one of the inventors of the telegraph.
 
 ## Concepts Covered
--Covered basic loop statements i.e. while and for loops.
--if else statements.
+- Covered basic loop statements i.e. while and for loops.
+- if else statements.
 - Functions.
 - Dictionaries.
 
